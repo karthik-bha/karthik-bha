@@ -31,14 +31,3 @@ I love building scalable web apps, real-time systems & clean UI experiences.
 ---
 
 <p align="center">💡 <i>"Consistency compounds."</i></p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthik-bha&show_icons=true&theme=transparent&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-bha&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-bha&theme=github-light&hide_border=true" />
-</p>
